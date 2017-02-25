@@ -1,0 +1,16 @@
+# Broj elemenata
+N = 100
+# Lijevi rub domene
+L = 0.0
+# Desni rub domene
+R = 1.0
+# Krajnje vrijeme simulacije
+T = 1.0
+# Vremenski korak
+dt = 0.001
+# Rubni uvjet
+bc = 1.5
+# Početni uvjet
+in = 0.0
+# Konstanta a
+a = 0.1
